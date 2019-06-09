@@ -1,5 +1,4 @@
 ## npm run start
-## npm run start
 react实现高阶组件的用法<br/>
 // 高阶组件<br/>
 1.首先写一个普通组件，<br/>
